@@ -1,0 +1,7 @@
+C:\Users\Ahmet İşleyen\Source\Repos\csProject\carpanBulma\bin\Debug\carpanBulma.exe.config
+C:\Users\Ahmet İşleyen\Source\Repos\csProject\carpanBulma\bin\Debug\carpanBulma.exe
+C:\Users\Ahmet İşleyen\Source\Repos\csProject\carpanBulma\bin\Debug\carpanBulma.pdb
+C:\Users\Ahmet İşleyen\Source\Repos\csProject\carpanBulma\obj\Debug\carpanBulma.csproj.AssemblyReference.cache
+C:\Users\Ahmet İşleyen\Source\Repos\csProject\carpanBulma\obj\Debug\carpanBulma.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet İşleyen\Source\Repos\csProject\carpanBulma\obj\Debug\carpanBulma.exe
+C:\Users\Ahmet İşleyen\Source\Repos\csProject\carpanBulma\obj\Debug\carpanBulma.pdb

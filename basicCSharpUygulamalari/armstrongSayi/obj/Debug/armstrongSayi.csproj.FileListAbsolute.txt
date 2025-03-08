@@ -1,0 +1,7 @@
+C:\Users\Ahmet İşleyen\Source\Repos\csProjects\armstrongSayi\bin\Debug\armstrongSayi.exe.config
+C:\Users\Ahmet İşleyen\Source\Repos\csProjects\armstrongSayi\bin\Debug\armstrongSayi.exe
+C:\Users\Ahmet İşleyen\Source\Repos\csProjects\armstrongSayi\bin\Debug\armstrongSayi.pdb
+C:\Users\Ahmet İşleyen\Source\Repos\csProjects\armstrongSayi\obj\Debug\armstrongSayi.csproj.AssemblyReference.cache
+C:\Users\Ahmet İşleyen\Source\Repos\csProjects\armstrongSayi\obj\Debug\armstrongSayi.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet İşleyen\Source\Repos\csProjects\armstrongSayi\obj\Debug\armstrongSayi.exe
+C:\Users\Ahmet İşleyen\Source\Repos\csProjects\armstrongSayi\obj\Debug\armstrongSayi.pdb

@@ -1,0 +1,7 @@
+C:\Users\Ahmet İşleyen\Source\Repos\csProjects\mukemmelSayi\bin\Debug\mukemmelSayi.exe.config
+C:\Users\Ahmet İşleyen\Source\Repos\csProjects\mukemmelSayi\bin\Debug\mukemmelSayi.exe
+C:\Users\Ahmet İşleyen\Source\Repos\csProjects\mukemmelSayi\bin\Debug\mukemmelSayi.pdb
+C:\Users\Ahmet İşleyen\Source\Repos\csProjects\mukemmelSayi\obj\Debug\mukemmelSayi.csproj.AssemblyReference.cache
+C:\Users\Ahmet İşleyen\Source\Repos\csProjects\mukemmelSayi\obj\Debug\mukemmelSayi.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet İşleyen\Source\Repos\csProjects\mukemmelSayi\obj\Debug\mukemmelSayi.exe
+C:\Users\Ahmet İşleyen\Source\Repos\csProjects\mukemmelSayi\obj\Debug\mukemmelSayi.pdb

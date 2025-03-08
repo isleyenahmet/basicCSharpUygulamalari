@@ -1,0 +1,7 @@
+C:\Users\Ahmet İşleyen\Source\Repos\csProject\dogruSifreMi\bin\Debug\dogruSifreMi.exe.config
+C:\Users\Ahmet İşleyen\Source\Repos\csProject\dogruSifreMi\bin\Debug\dogruSifreMi.exe
+C:\Users\Ahmet İşleyen\Source\Repos\csProject\dogruSifreMi\bin\Debug\dogruSifreMi.pdb
+C:\Users\Ahmet İşleyen\Source\Repos\csProject\dogruSifreMi\obj\Debug\dogruSifreMi.csproj.AssemblyReference.cache
+C:\Users\Ahmet İşleyen\Source\Repos\csProject\dogruSifreMi\obj\Debug\dogruSifreMi.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet İşleyen\Source\Repos\csProject\dogruSifreMi\obj\Debug\dogruSifreMi.exe
+C:\Users\Ahmet İşleyen\Source\Repos\csProject\dogruSifreMi\obj\Debug\dogruSifreMi.pdb
